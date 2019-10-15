@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: 郑悦
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 地质工程 硕士
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 中国地质大学（北京）
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
