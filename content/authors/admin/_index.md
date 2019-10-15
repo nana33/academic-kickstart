@@ -25,17 +25,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # - 计算机视觉
 # - 地震数据处理
 
-education:
+# education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
