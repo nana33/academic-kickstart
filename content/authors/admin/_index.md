@@ -24,6 +24,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
  - 深度学习
  - 计算机视觉
  - 地震数据处理
+ - 地震数据处理
+ - 地震数据处理
 
 # education:
   # courses:
