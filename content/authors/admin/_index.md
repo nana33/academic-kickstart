@@ -20,12 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# 兴趣:
-# - 深度学习
-# - 计算机视觉
-# - 地震数据处理
+interests:
+ - 深度学习
+ - 计算机视觉
+ - 地震数据处理
 
-class:
+education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
