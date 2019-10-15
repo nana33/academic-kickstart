@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
  - 深度学习
  - 计算机视觉
-  - 地震数据处理
+ - 地震数据处理
 
 # education:
   # courses:
@@ -42,11 +42,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/nana33
-# Link to a PDF of your resume/CV from the About widget.
+  
+ Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
