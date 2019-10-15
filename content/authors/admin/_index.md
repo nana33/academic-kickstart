@@ -30,8 +30,8 @@ interest:
 # education:
   # courses:
   # - course: PhD in Artificial Intelligence
-    # institution: Stanford University
-    # year: 2012
+   # institution: Stanford University
+   # year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
