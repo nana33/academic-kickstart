@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
  - 深度学习
  - 计算机视觉
- - 地震数据处理
+  - 地震数据处理
 
 education:
   courses:
@@ -58,6 +58,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+我现在是中国地质大学（北京）地球物理与信息技术学院的研究生。研究方向为基于深度学习的地震数据压制。已发表国际会议“2019 SEG 3rd International Workshop on Mathematical Geophysics:Traditional vs Learning” 一篇口头报告，一篇Geophysics “Linear noise attenuation using an improved DnCNN”在投。
