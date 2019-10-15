@@ -21,7 +21,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 
 interest:
- - 方向:
+ - 方向
  - 深度学习
  - 计算机视觉
  - 地震数据处理
