@@ -25,11 +25,11 @@ interests:
  - 计算机视觉
   - 地震数据处理
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+# education:
+  # courses:
+  # - course: PhD in Artificial Intelligence
+    # institution: Stanford University
+    # year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
