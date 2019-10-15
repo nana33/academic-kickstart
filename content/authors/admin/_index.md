@@ -15,12 +15,13 @@ role: 地质工程 硕士
 # Organizations/Affiliations
 organizations:
 - name: 中国地质大学（北京）
-  url: ""
+- url: ""
 
 # Short bio (displayed in user profile at end of posts)
 # Short bio (displayed in user profile at end of posts)
 
-- 方向:
+interest:
+ - 方向:
  - 深度学习
  - 计算机视觉
  - 地震数据处理
