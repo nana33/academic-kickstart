@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-兴趣:
-- 深度学习
-- 计算机视觉
-- 地震数据处理
+# 兴趣:
+# - 深度学习
+# - 计算机视觉
+# - 地震数据处理
 
 education:
   courses:
