@@ -60,4 +60,4 @@ user_groups:
 - Visitors
 ---
 
-我现在是中国地质大学（北京）地球物理与信息技术学院的研究生。研究方向为基于深度学习的地震数据压制。已发表国际会议“2019 SEG 3rd International Workshop on Mathematical Geophysics:Traditional vs Learning” 一篇口头报告，一篇Geophysics “Linear noise attenuation using an improved DnCNN”在投。
+
