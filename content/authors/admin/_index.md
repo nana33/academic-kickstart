@@ -14,7 +14,7 @@ role: 地质工程 硕士
 
 # Organizations/Affiliations
 organizations:
-- name: 中国地质大学（北京）
+- name: 中国
 - url: ""
 
 # Short bio (displayed in user profile at end of posts)
