@@ -25,7 +25,7 @@ interest:
  - 深度学习
  - 计算机视觉
  - 地震数据处理
- - 地震数据
+ - 地震数据cchuli
 
 # education:
   # courses:
