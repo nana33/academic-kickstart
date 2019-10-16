@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "安徽理工大学"
   company_url = ""
   # location = "California"
-  date_start = "2013-09"
-  date_end = "2017-06"
+  # date_start = "2013-09"
+  # date_end = "2017-06"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
