@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: 郑悦
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+role: 中国地质大学（北京） 硕士
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 深度学习
+- 计算机视觉
+- 地震资料处理
 
 education:
   courses:
@@ -44,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "2395811575@qq.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
