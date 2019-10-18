@@ -27,6 +27,31 @@
   name = "Contact"
   url = "#contact"
   weight = 60
+  
+ [[main]]
+  name = "主页"
+  url = "#about"
+  weight = 10
+
+[[main]]
+  name = "邮寄"
+  url = "#posts"
+  weight = 20
+
+[[main]]
+  name = "项目"
+  url = "#projects"
+  weight = 30
+
+[[main]]
+  name = "出版"
+  url = "#featured"
+  weight = 40
+
+[[main]]
+  name = "联系"
+  url = "#contact"
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
