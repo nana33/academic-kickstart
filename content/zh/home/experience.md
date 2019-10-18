@@ -39,6 +39,6 @@ date_format = "Jan 2006"
   # location = "California"
   date_start = "2013-09-01"
   date_end = "2017-06-21"
-  description = """
+  description = """"""
 
 +++
