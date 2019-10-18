@@ -25,11 +25,11 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  相关课程:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * 地震数据处理与解释、地球物理信息处理、地球物理反演、偏微分方程数值解
+  * C++、Linux程序设计
+  * Deep learning(吴恩达)、Machine learning(李宏毅)、Python(网课)
   """
 
 [[experience]]
@@ -39,6 +39,6 @@ date_format = "Jan 2006"
   # location = "California"
   date_start = "2013-09-01"
   date_end = "2017-06-21"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
 
 +++
