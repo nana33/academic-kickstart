@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://github.com/nana33/academic-kickstart/tree/master/content/zh/publication/journal-article
 url_code: ''
 url_dataset: ''
 url_poster: ''
