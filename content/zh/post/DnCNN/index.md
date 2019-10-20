@@ -17,8 +17,8 @@ publishDate: "2019-11-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+# publication: In *Source Themes Conference*
+# publication_short: In *STC*
 
 abstract: Seismic data are often highly corrupted by different kinds of noise, including linear noise. Therefore, the attenuation of linear noise has been an essential step in seismic data processing. Traditional methods of linear noise suppression are mostly based on the difference of signals and noise in transform domains. However, the application of these traditional methods is limited to some particular assumptions. For this reason, we utilize an algorithm based on denoising convolutional neural network (DnCNN) to attenuate linear noise. DnCNN is proposed to suppress Gaussian noise in images. In term of the characteristics of linear noise, we make some improvements to the original DnCNN, like patch size, convolutional kernel number. Tests on two types of synthetic data both indicate that the improved DnCNN algorithm is capable of linear noise attenuation in the seismic data.
 
