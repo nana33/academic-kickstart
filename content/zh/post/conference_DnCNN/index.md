@@ -30,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://github.com/nana33/academic-kickstart/blob/master/content/zh/post/conference_DnCNN/conference_DnCNN.pdf"
+url_pdf: "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
