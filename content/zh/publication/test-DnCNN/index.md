@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: '' 
+url_pdf: "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf" 
 url_code: ''
 url_dataset: ''
 url_poster: ''
