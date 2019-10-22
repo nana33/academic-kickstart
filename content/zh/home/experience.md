@@ -39,6 +39,11 @@ date_format = "2006-01-02"
   # location = "California"
   date_start = "2013-09-01"
   date_end = "2017-06-21"
-  description = """"""
+  description = """
+  相关课程:
+  
+  * 地震勘探、地震资料处理、电法勘探、重磁勘探、化探、岩土钻掘、工程岩土、工程力学、工程数学
+  * C、Matlab
+  """
 
 +++
