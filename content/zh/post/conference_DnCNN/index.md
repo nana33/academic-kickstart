@@ -30,7 +30,7 @@ abstract: Linear noise is a type of common interference wave in seismic data. Th
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: post/conference_DnCNN/conference_DnCNN.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
