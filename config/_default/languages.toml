@@ -12,7 +12,7 @@
   [[en.menu.main]]
     name = "Wo"
     url = "#about"
-    weight = 1
+    weight = 2
   # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
@@ -25,4 +25,4 @@
   [[zh.menu.main]]
     name = "Wo"
     url = "#about"
-    weight = 2
+    weight = 1
