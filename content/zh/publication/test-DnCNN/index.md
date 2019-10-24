@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf" 
+url_pdf: post/The improved DnCNN for linear noise attenuation/The improved DnCNN for linear noise attenuation.pdf 
 url_code: ''
 url_dataset: ''
 url_poster: ''
