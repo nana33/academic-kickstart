@@ -31,7 +31,7 @@ featured: true
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: post/The improved DnCNN for linear noise attenuation
+url_pdf: post/The improved DnCNN for linear noise attenuation/The improved DnCNN for linear noise attenuation.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
