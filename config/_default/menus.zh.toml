@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "会议"
+  name = "文章"
   url = "#posts"
   weight = 20
 
@@ -19,7 +19,7 @@
 #  weight = 30
 
 [[main]]
-  name = "文章"
+  name = "会议"
   url = "#featured"
   weight = 40
 
