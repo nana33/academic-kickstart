@@ -2,6 +2,7 @@
 title: "Linear noise attenuation using an improved DnCNN"
 authors:
 - Yue Zheng
+- Xu Si
 # date: "2015-09-01T00:00:00Z"
 # doi: ""
 
