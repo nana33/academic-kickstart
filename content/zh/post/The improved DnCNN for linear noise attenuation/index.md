@@ -1,9 +1,10 @@
 ---
-title: "An example conference paper"
+title: " Linear noise attenuation using an improved DnCNN(submit)"
 authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Yue zheng
+- Yijun Yuan
+- Xu Si
+date: "2019-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,10 +20,10 @@ publication_types: ["1"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Linear noise is a type of common interference wave in seismic data. This noise always interferes with seismic data processing and interpretation. Therefore, the removal of linear noise represents an essential step in seismic data processing. Here, we proposed an improved method based on a denoising convolutional neural network (DnCNN) to attenuate linear noise in seismic data. This method requires no hypothetical conditions for linear noise attenuation. We simply input training data into the neural network to train the network to learn the features of linear noise within the training data, and then, linear noise can be identified in seismic data sets. Finally, denoised data are obtained by subtracting the identified linear noise from raw seismic data. Since training data represent a key component in the DnCNN, we generated numerous pairs of training data points including synthetic and real seismic data to feed the network. Based on the characteristics of linear noise in the seismic data, we modified the original DnCNN by adjusting the patch size, convolutional kernel number, and learning rate. Through network training, the improved DnCNN developed the ability to automatically identify the linear noise from seismic data. We then used synthetic and real seismic data to quantify the performance of the improved DnCNN.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Linear noise is a type of common interference wave in seismic data. This noise always interferes with seismic data processing and interpretation. Here, we proposed an improved method based on a denoising convolutional neural network (DnCNN) to attenuate linear noise in seismic data. Tests on synthetic and real seismic data both show the denoised performance of the improved DnCNN.
 
 tags:
 - Source Themes
