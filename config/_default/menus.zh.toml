@@ -20,7 +20,7 @@
 
 [[main]]
   name = "会议"
-  url = "#featured"
+  url = "#publications"
   weight = 40
 
 [[main]]
