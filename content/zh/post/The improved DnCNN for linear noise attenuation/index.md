@@ -30,8 +30,8 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+# - name: Custom Link
+#  url: http://example.org
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'
@@ -63,14 +63,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
