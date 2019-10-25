@@ -19,9 +19,9 @@ date_format = "2006-01-02"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "硕士"
-  company = "中国地质大学（北京）         地质工程"
+  company = "中国地质大学（北京）"
   company_url = ""
-  # location = "California"
+  location = "地质工程"
   date_start = "2017-09-01"
   date_end = ""
   description = """
