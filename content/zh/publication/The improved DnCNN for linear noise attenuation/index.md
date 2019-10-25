@@ -31,7 +31,7 @@ featured: true
 
 links:
 # - name: Custom Link
-  url: http://example.org
+#  url: http://example.org
 url_pdf: publication/The improved DnCNN for linear noise attenuation
 url_code: 'https://github.com/nana33/DnCNN_denoise_linear-noise'
 # url_dataset: '#'
