@@ -20,26 +20,26 @@ publication_types: ["1"]
 publication: In *2019 SEG 3rd International Workshop*
 publication_short: In *SEG*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Seismic data are often highly corrupted by different kinds of noise, including linear noise. Therefore, the attenuation of linear noise has been an essential step in seismic data processing. Traditional methods of linear noise suppression are mostly based on the difference of signals and noise in transform domains. However, the application of these traditional methods is limited to some particular assumptions. For this reason, we utilize an algorithm based on deep convolutional neural network (DnCNN) to attenuate linear noise. DnCNN is proposed to suppress Gaussian noise in images. In term of the characteristics of linear noise, we make some improvements to the original DnCNN, like patch size, convolutional kernel number. Tests on two types of synthetic data both indicate that the improved DnCNN algorithm is capable of linear noise attenuation in the seismic data.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Seismic data are often highly corrupted by different kinds of noise, including linear noise. We utilize an algorithm based on deep convolutional neural network (DnCNN) to attenuate linear noise.Tests on two types of synthetic data both indicate that the improved DnCNN algorithm is capable of linear noise attenuation in the seismic data.
 
 tags:
 - Source Themes
 featured: true
 
 links:
-- name: Custom Link
+# - name: Custom Link
   url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: publication/The improved DnCNN for linear noise attenuation
+url_code: 'https://github.com/nana33/DnCNN_denoise_linear-noise'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -63,14 +63,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
