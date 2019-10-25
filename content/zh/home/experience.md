@@ -20,7 +20,6 @@ date_format = "2006-01-02"
 [[experience]]
   title = "硕士"
   company = "中国地质大学（北京）"
-  company_position = "地质工程"
   company_url = ""
   # location = "地质工程"
   date_start = "2017-09-01"
@@ -35,7 +34,7 @@ date_format = "2006-01-02"
 
 [[experience]]
   title = "学士"
-  company = "安徽理工大学         勘查技术与工程"
+  company = "安徽理工大学"
   company_url = ""
   # location = "California"
   date_start = "2013-09-01"
