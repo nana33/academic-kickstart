@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "Paper"
   url = "#posts"
   weight = 20
 
@@ -19,7 +19,7 @@
 #  weight = 30
 
 [[main]]
-  name = "Publications"
+  name = "Conference"
   url = "#publications"
   weight = 30
 
