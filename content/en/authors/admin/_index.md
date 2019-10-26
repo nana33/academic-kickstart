@@ -47,4 +47,4 @@ user_groups:
 - Visitors
 ---
 
-I am a master in the school of Geophysics and Information Technology, China University of Geosciences. My research interes is deep learning for seismic data processing. I am good at Matlab, Python, C++ and other programming languages. I am familiar with Linux operating system and cloud server. At the same time, I do well in using Geoeast and other seismic data processing software.
+I am a master in the school of Geophysics and Information Technology, China University of Geosciences. My research interes is deep learning for seismic data processing. I am good at Matlab, Python, C++ and some other programming languages. I am familiar with Linux operating system and cloud server such as AWS. At the same time, I do well in using Geoeast and other seismic data processing softwares.
