@@ -25,20 +25,25 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = ""
   description = """
-  Related courses include:
+  Related courses:
   
   * Seismic data processing and interpretation, Geophysical information processing, Geophysical inversion, Numerical solution of partial differential equation
   * C++, Linux
-  * Deep learning(Andrew Ng), Machine learning(Hongyi Li), Python
+  * Deep learning(Andrew Ng), Machine learning(Hungyi Lee), Python
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Bachelor"
+  company = "Anhui University Of Science And Technology"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+ # location = "California"
+  date_start = "2013-09-01"
+  date_end = "2017-06-21"
+  description = """
+  Related courses:
+  
+  * seismic exploration, Seismic data processing, Electrical prospecting, Gravity and magnetic exploration, Geochemical exploration, Geotechnical drilling and excavation, Engineering rock and soil, Engineering mechanics, Engineering Mathematics   
+  * C，Matlab
+    """
 
 +++
