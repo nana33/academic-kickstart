@@ -34,7 +34,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Bachelor"
-  company = "Anhui University Of Science And Technology"
+  company = "Anhui University Of Science and Technology"
   company_url = ""
  # location = "California"
   date_start = "2013-09-01"
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   description = """
   Related courses:
   
-  * seismic exploration, Seismic data processing, Electrical prospecting, Gravity and magnetic exploration, Geochemical exploration, Geotechnical drilling and excavation, Engineering rock and soil, Engineering mechanics, Engineering Mathematics   
+  * Seismic exploration, Seismic data processing, Electrical prospecting, Gravity and magnetic exploration, Geochemical exploration, Geotechnical drilling and excavation, Engineering rock and soil, Engineering mechanics, Engineering Mathematics   
   * C，Matlab
     """
 
