@@ -47,4 +47,4 @@ user_groups:
 - Visitors
 ---
 
-I am a master in the school of Geophysics and Information Technology, China University of Geosciences. My research interes is deep learning for seismic data processing. I am good at Matlab, Python, C++ and some other programming languages. I am familiar with Linux operating system and cloud server such as AWS. At the same time, I do well in using Geoeast and other seismic data processing softwares.
+I am a master in the school of Geophysics and Information Technology, China University of Geosciences. My research interes is deep learning for seismic data processing. I am good at Matlab, Python, C++ and some other programming languages. I am familiar with Linux operating system and cloud server such as AWS. At the same time, I do well in using Geoeast and other seismic data processing softwares. Conference: "2019 SEG 3rd International Workshop on Mathematical Geophysics: Traditional vs Learning":The improved DnCNN for linear noise attenuation(oral). Publication:Linear noise attenuation using an improved DnCNN(submit).
